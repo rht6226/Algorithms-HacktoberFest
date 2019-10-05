@@ -68,3 +68,21 @@ than or equal to `n`. For example:
 | 15    | 1 307 674 368 000           |
 
 [Wikipedia](https://en.wikipedia.org/wiki/Factorial)
+
+# Insertion Sort
+
+```
+Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
+You already have a sorted deck of cards. When a new card is given, you have to insert it at the correct position.
+
+Time Complexity: O(n*2)
+Auxiliary Space: O(1) 
+```
+```
+Algorithm
+ 
+2. Loop over positions in the array, starting with index 1. 
+3. Each new position is like the new card handed to you by the dealer, and you need to insert it into the correct place in the sorted subarray to the left of that position.
+
+```
+[Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
