@@ -9,6 +9,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 ## C++
 
 - `B` [Factorial](C++/factorial.cpp)
+- `B` [Insertion Sort](C++/insertion_sort.cpp)
 - `A` [KMP Algorithm](<C++/KMP(string-matching-algorithm).cpp>)
 - `A` [N-Queen-Problem](C++/N-Queen-Problem.cpp)
 - `A` [Tower-of-Hanoi](C++/Tower-of-Hanoi.cpp)
