@@ -81,8 +81,8 @@ Auxiliary Space: O(1)
 ```
 Algorithm
  
-2. Loop over positions in the array, starting with index 1. 
-3. Each new position is like the new card handed to you by the dealer, and you need to insert it into the correct place in the sorted subarray to the left of that position.
+1. Loop over positions in the array, starting with index 1. 
+2. Each new position is like the new card handed to you by the dealer, and you need to insert it into the correct place in the sorted subarray to the left of that position.
 
 ```
 [Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
